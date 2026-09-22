@@ -6,3 +6,13 @@ github:
   repository: gantry-workspace-testing
 slug: solution-architect-220926
 stage: requisition
+workItem:
+  owner: cgbarlow
+  parentNumber: 1
+  provider: github
+  repository: gantry-workspace-testing
+  stages:
+    appointment: 4
+    provisioning: 5
+    requisition: 2
+    selection: 3
