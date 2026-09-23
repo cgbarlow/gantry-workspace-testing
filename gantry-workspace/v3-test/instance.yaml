@@ -6,3 +6,14 @@ github:
   repository: gantry-workspace-testing
 slug: v3-test
 stage: requisition
+workItem:
+  owner: cgbarlow
+  parentNumber: 6
+  provider: github
+  repository: gantry-workspace-testing
+  stages:
+    appointment: 9
+    offer-contract-payroll: 10
+    provisioning: 11
+    requisition: 7
+    selection: 8
