@@ -6,3 +6,14 @@ github:
   repository: gantry-workspace-testing
 slug: ai-engineer
 stage: requisition
+workItem:
+  owner: cgbarlow
+  parentNumber: 12
+  provider: github
+  repository: gantry-workspace-testing
+  stages:
+    appointment: 15
+    offer-contract-payroll: 16
+    provisioning: 17
+    requisition: 13
+    selection: 14
