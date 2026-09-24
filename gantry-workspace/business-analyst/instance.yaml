@@ -6,3 +6,14 @@ github:
   repository: gantry-workspace-testing
 slug: business-analyst
 stage: requisition
+workItem:
+  owner: cgbarlow
+  parentNumber: 18
+  provider: github
+  repository: gantry-workspace-testing
+  stages:
+    appointment: 21
+    offer-contract-payroll: 22
+    provisioning: 23
+    requisition: 19
+    selection: 20
