@@ -9,7 +9,7 @@ pullRequestStatuses:
 pullRequests:
   requisition: 24
 slug: business-analyst
-stage: requisition
+stage: selection
 workItem:
   owner: cgbarlow
   parentNumber: 18
