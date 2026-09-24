@@ -4,6 +4,10 @@ definitionVersion: 3
 github:
   owner: cgbarlow
   repository: gantry-workspace-testing
+pullRequestStatuses:
+  requisition: active
+pullRequests:
+  requisition: 24
 slug: business-analyst
 stage: requisition
 workItem:
