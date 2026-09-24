@@ -5,7 +5,7 @@ github:
   owner: cgbarlow
   repository: gantry-workspace-testing
 pullRequestStatuses:
-  requisition: active
+  requisition: completed
 pullRequests:
   requisition: 24
 slug: business-analyst
