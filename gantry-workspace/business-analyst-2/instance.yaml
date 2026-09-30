@@ -5,5 +5,9 @@ github:
   owner: cgbarlow
   repository: gantry-workspace-testing
 number: 5
+pullRequestStatuses:
+  requisition: active
+pullRequests:
+  requisition: 25
 slug: business-analyst-2
 stage: requisition
